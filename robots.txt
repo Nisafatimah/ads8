@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://skywin777-gacor.mouplands.org/sitemap.xml
